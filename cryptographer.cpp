@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> //important libraries
 #include<fstream>
 #include<string>
 #include <cstdlib>
@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {   e:
-    //system("color 0A");
+
     string infile,outfile;
     char ch,j;
     int numA,x,i;
